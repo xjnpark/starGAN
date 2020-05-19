@@ -4,7 +4,7 @@
 This repository provides a PyTorch implementation of [StarGAN](https://arxiv.org/abs/1711.09020). StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. The demo video for StarGAN can be found [here](https://www.youtube.com/watch?v=EYjdLppmERE).
 
 <p align="center"><img width="100%" src="jpg/main.jpg" /></p>
-
+<p "starGAN 을 Font 에 적용해봄 - xjk-p" /p>
 <br/>
 
 ## Paper
