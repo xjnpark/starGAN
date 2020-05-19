@@ -1,14 +1,16 @@
 <p align="center"><img width="40%" src="jpg/logo.jpg" /></p>
 
+```bash
+*** starGAN을 FONT 에 적용하여 Font style 의 변화를 테스트 함
+*** 2020 DS 과제로 시도함(20200520)
+***                                ----- x_jkp
+```
 --------------------------------------------------------------------------------
 This repository provides a PyTorch implementation of [StarGAN](https://arxiv.org/abs/1711.09020). StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. The demo video for StarGAN can be found [here](https://www.youtube.com/watch?v=EYjdLppmERE).
 
 <p align="center"><img width="100%" src="jpg/main.jpg" /></p>
 
-```bash
-starGAN을 FONT 에 적용하여 Font style 의 변화를 테스트 함
------ x_jkp
-```
+
 <br/>
 
 ## Paper
